@@ -1,6 +1,6 @@
 # Vibe-Code-A-Thon
 
-## 🔥 Slay or Decay - Brainrot Recipes for Students
+## 🔥 Slay or Decay - Brainrot Recipes for Students (STREAM WINNER)
 
 **Slay or Decay** is a web application that serves up absolutely bussin' recipes with maximum brainrot energy for students who want to eat good without the L's. Built with Node.js and styled with Tailwind CSS, this app delivers a collection of recipes that are easy to follow, budget-friendly, and described in the only language that matters - pure, unfiltered Gen Z brainrot.
 
